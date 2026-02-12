@@ -1,6 +1,9 @@
+# Vite build output
+/dist/
+
 # Node modules
-node_modules/
+/node_modules/
 
 # Build artifacts
-build/
-dist/
+/.vite/**
+/.cache/**
